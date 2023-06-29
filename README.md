@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yuri+Santiago;I'm+19+years+old;I'm+from+Brazil;I`m+FullStack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yuri+Santiago;I'm+20+years+old;I'm+from+Brazil;I`m+Software+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -25,5 +25,5 @@
 
 
 <div align="center"> 
-<a href="https://www.linkedin.com/in/yuri-santiago-279320270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/yuri-santiago-279320270" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
