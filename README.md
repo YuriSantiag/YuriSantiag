@@ -35,6 +35,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
 
 <h4>🔧Ferramentas de desenvolvimento<h4/>
 
