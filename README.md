@@ -42,7 +42,7 @@
 ![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=netbeans&logoColor=2C2255)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=2C2255)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-333333?style=flat&logo=kali-linux&logoColor=white)
 
 
 
