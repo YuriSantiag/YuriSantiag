@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=Welcome;+:%29)](https://git.io/typing-svg)
 
 
 ### ⚙️ GitHub Analytics
@@ -24,8 +24,6 @@
 
 <h3>🚀Skills</h3>
 
-*Aplicações e dados**
-
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=563D7C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -37,7 +35,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
 
-<h4>🔧Ferramentas de desenvolvimento<h4/>
+<h4>🔧Tools<h4/>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
