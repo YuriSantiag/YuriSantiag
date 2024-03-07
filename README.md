@@ -34,6 +34,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
+![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js&logoColor=white)
+
 
 <h4>🔧Tools<h4/>
 
@@ -43,6 +45,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=2C2255)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-333333?style=flat&logo=kali-linux&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=white)
+
 
 
 
