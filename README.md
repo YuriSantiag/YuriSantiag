@@ -35,6 +35,8 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
 ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
 
 
 <h4>🔧Tools<h4/>
