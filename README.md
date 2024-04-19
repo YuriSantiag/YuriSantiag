@@ -51,7 +51,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=white)
 
 
-![](https://komarev.com/ghpvc/?username=jpcairesf&color=006bed)
+![](https://komarev.com/ghpvc/?username=YuriSantiag&color=006bed)
 
 
 <div align="center"> 
