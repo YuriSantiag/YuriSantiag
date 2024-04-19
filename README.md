@@ -51,17 +51,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=white)
 
 
-
-
-
-
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yurisantiag}/count.svg" /></p> 
-<br>
-</div>
+![](https://komarev.com/ghpvc/?username=jpcairesf&color=006bed)
 
 
 <div align="center"> 
