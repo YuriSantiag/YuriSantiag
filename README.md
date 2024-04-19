@@ -1,7 +1,7 @@
 
 
 
-### ⚙️ GitHub Analytics
+### GitHub Analytics
 
 <table>
   <tr>
@@ -22,7 +22,7 @@
 
 
 
-<h3>🚀Skills</h3>
+<h3>Skills</h3>
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=563D7C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -40,7 +40,7 @@
 
 
 
-<h4>🔧Tools<h4/>
+<h4>Tools<h4/>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
