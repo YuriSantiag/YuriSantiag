@@ -50,11 +50,10 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-333333?style=flat&logo=kali-linux&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=white)
 
-
-
-
-
-<div align="center"> 
+ 
+  
   ![](https://komarev.com/ghpvc/?username=YuriSantiag&color=006bed)
-<a href= "https://www.linkedin.com/in/yuri-santiago?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+
+
+
+
