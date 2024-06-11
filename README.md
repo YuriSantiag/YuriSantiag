@@ -1,11 +1,28 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+developer+from+Brazil;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000"">
-</p>
+### ⚙️ GitHub Analytics
 
-<h3>Skills</h3>
+<table>
+  <tr>
+    <td>
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=YuriSantiago&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+      </td>
+    <td>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriSantiag&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+  </td>
+    <td>
+<br/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriSantiag&theme=dark&hide_border=false" alt="Github stats" />
+ </td>
+  </tr>
+</table><br/>
+
+
+
+
+
+<h3>🚀Skills</h3>
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=563D7C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -14,16 +31,16 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=Tailwind%20CSS&logoColor=38B2AC)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextjs)
+![Next](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=next)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
 ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=white)
 
 
-
-<h4>Tools<h4/>
+<h4>🔧Tools<h4/>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -33,10 +50,20 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-333333?style=flat&logo=kali-linux&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=white)
 
- 
-  
-  ![](https://komarev.com/ghpvc/?username=YuriSantiag&color=006bed)
 
 
 
 
+
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yurisantiag}/count.svg" /></p> 
+<br>
+</div>
+
+
+<div align="center"> 
+<a href= "https://www.linkedin.com/in/yuri-santiago?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
