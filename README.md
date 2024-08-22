@@ -25,6 +25,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=563D7C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift&logoColor=FA7343)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=Tailwind%20CSS&logoColor=38B2AC)
@@ -40,6 +41,7 @@
 <h4>🔧Tools<h4/>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode&logoColor=1575F9)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=netbeans&logoColor=2C2255)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=2C2255)
