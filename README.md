@@ -59,4 +59,7 @@
    <a href="https://www.hackerrank.com/profile/yurisantiagox3" target="_blank">
       <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="border-radius: 30px" target="_blank">
    </a> 
+   <a href="https://dribbble.com/seu-usuario](https://dribbble.com/yurisantiago" target="_blank">
+      <img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" style="border-radius: 30px">
+   </a>
 </div>
